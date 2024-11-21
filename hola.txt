@@ -2,4 +2,8 @@ Hola de Daniel
 Hola de PONZI
 TE MIRO Y TE METO UN VIRUS
 hola 
+<<<<<<< HEAD
 ha costado que Stalin pudiese escribir aquí.
+=======
+hola eeeeieiee heya de Dani
+>>>>>>> 1fcc1759724defbca730748013e383afb0a1e9d0
